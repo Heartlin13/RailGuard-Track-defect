@@ -1,0 +1,4 @@
+frame,timestamp,track_id,category,class_name,confidence,bbox_x1,bbox_y1,bbox_x2,bbox_y2,severity,in_roi,latitude,longitude
+7,0.233,1,obstacle,person,0.7988,628,382,659,470,MEDIUM,True,10.960135000000001,78.07664666666666
+37,1.233,2,obstacle,baseball bat,0.5642,355,295,575,534,MEDIUM,True,10.960285,78.07684666666667
+53,1.767,3,obstacle,person,0.8202,628,490,670,613,HIGH,True,10.960365,78.07695333333334
